@@ -40,3 +40,13 @@ background-size: cover;
     font-size: 23px;
     margin: 15px;
 }
+
+canvas {
+    border: white solid 5px;
+    border-radius: 20px;
+}
+
+.play_button {
+    width: 120px;
+    font-size: 25px;
+}
